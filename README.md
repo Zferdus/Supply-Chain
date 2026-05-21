@@ -33,7 +33,7 @@ Python: Python 3.9 or higher recommended
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Zferdus/Supply-Chain.git
+git clone[ https://github.com/Zferdus/Supply-Chain.git](https://github.com/Zferdus/Supply-Chain)
 cd Fed-GraphSAGE-SupplyChain
 ````
 
